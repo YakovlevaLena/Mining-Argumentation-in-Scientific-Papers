@@ -1,1 +1,1 @@
-# Section-segmentation-in-scientific-articles
+# Mining Argumentation in Scientific Papers
